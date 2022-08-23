@@ -1,2 +1,0 @@
-Archivo de configuracion de codigo
-Aqui se escribe como se ha configurado el codigo del proyecto CRUD_JAVA
